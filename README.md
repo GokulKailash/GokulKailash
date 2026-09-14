@@ -119,9 +119,16 @@ A web-based platform to streamline hospital appointment scheduling, replacing ma
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.chess.com/member/gokukaali" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-gokukaali-00FFFF?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GokulKailash&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKailash&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulKailash&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulKailash&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
