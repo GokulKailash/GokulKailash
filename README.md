@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gokul K 👋</h1>
-
-<h3 align="center">🎓 M.Sc. Computer Science | 💻 Full Stack Developer | 🚀 AI Data Annotation Specialist</h3>
+<p align="center"><img src="https://img.shields.io/badge/Open_For_Job_Opportunities-255444?style=for-the-badge&logoColor=white"></p>
+<h3 align="center"> 💻 Aspiring Web or MERN Developer | 🎓 M.Sc. Computer Science | 🚀 Data Annotator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Web+Apps+with+PHP+%26+ReactJS;Working+with+MongoDB+%26+MySQL;3D%2F2D+Data+Annotation+for+Autonomous+Vehicles;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -20,9 +20,9 @@
 name: Gokul K
 education: M.Sc. Computer Science (2026) | B.Sc. Information Technology (2024)
 location: Anthiyur, Tamil Nadu, India
-current_focus: Web Development & AI Data Annotation
+current_focus: Web Development
 looking_for: Challenging roles to apply my technical skills to solve real-world problems
-fun_fact: I annotate LiDAR point clouds so self-driving cars can see the road 🚗
+slogan code: try { code(); } catch (error) { learn(); }
 ```
 
 ---
@@ -59,6 +59,7 @@ fun_fact: I annotate LiDAR point clouds so self-driving cars can see the road �
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/picsart-00C4CZ?style=flat-square&logo=picsart&logoColor=black">
 </p>
 
 ---
@@ -118,18 +119,10 @@ A web-based platform to streamline hospital appointment scheduling, replacing ma
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GokulKailash&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKailash&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://www.chess.com/member/gokukaali" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-gokukaali-00FFFF?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulKailash&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulKailash&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ### 🏆 Certifications
@@ -140,6 +133,7 @@ A web-based platform to streamline hospital appointment scheduling, replacing ma
 
 ### 📫 Reach Me
 <p>
+  <a href="https://wa.me/919384725516" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="mailto:gokulkaali55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gokul-kailash-abc25516"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
