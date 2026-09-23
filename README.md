@@ -116,22 +116,6 @@ A web-based platform to streamline hospital appointment scheduling, replacing ma
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GokulKailash&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKailash&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulKailash&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulKailash&theme=tokyo-night&hide_border=true" />
-</p>
----
-
 ### 🏆 Certifications
 - ✅ Python Basics — HackerRank
 
@@ -143,10 +127,6 @@ A web-based platform to streamline hospital appointment scheduling, replacing ma
   <a href="https://wa.me/919384725516" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="mailto:gokulkaali55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gokul-kailash-abc25516"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GokulKailash&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>⭐️ From <a href="#">Gokul K</a> — thanks for visiting!</i></p>
